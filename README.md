@@ -15,10 +15,10 @@ Importância do Código:
 Este código é extremamente útil para profissionais que necessitam acessar regularmente os rankings da ANBIMA. A automação do processo de download economiza tempo e reduz a possibilidade de erros humanos.
 Além disso, ao organizar os arquivos em pastas específicas, o script facilita a gestão e o acesso aos documentos baixados.
 
-Como Utilizar
+- Como Utilizar
 Instale as dependências: Certifique-se de ter o Selenium e o navegador Edge instalados em seu sistema.
 Execute o script: Rode o script Python para iniciar o processo de download.
 Acesse os arquivos: Os arquivos baixados estarão organizados nas pastas Fundos de Investimento e Mercado de Capitais dentro da pasta de Downloads do usuário.
 
-Conclusão
+- Conclusão
 Este projeto demonstra como a automação pode ser aplicada para simplificar tarefas repetitivas e melhorar a eficiência no acesso a informações importantes. Esperamos que este script seja útil e facilite o trabalho com os rankings da ANBIMA.
